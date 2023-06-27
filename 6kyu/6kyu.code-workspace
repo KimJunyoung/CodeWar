@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../7kyu"
+	},
+	{
+		"path": "../8 kyu"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "6kyu"
+  }
+}
